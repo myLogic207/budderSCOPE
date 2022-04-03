@@ -1,0 +1,12 @@
+body {
+    top: 40%;
+    left: 50%;
+    background: #202124;
+    color: white;
+}
+h1 {
+    position: absolute;
+    font-family: serif;
+    font-size: xxx-large;
+    color: darkcyan;
+}
